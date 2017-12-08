@@ -161,7 +161,7 @@ k3mid = k3.getProfile().mid
 
 Bots = [mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,k1mid,k2mid,k3mid]
 admsa = "udee46099e25e71f1fd1817cae9e7c429"
-admin = "udee46099e25e71f1fd1817cae9e7c429"
+admin = "udee46099e25e71f1fd1817cae9e7c429
 wait = {
     'contact':False,
     'autoJoin':True,
